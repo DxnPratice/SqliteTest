@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SqliteTest</string>
+    <string name="no_tests">目前没有保存的待办事项</string>
+    <string name="menu_insert">增加事项</string>
+    <string name="menu_delete">删除待办</string>
+    <string name="test_summary">概要</string>
+    <string name="test_description">描述</string>
+    <string name="test_edit_summary">编辑概要</string>
+    <string name="test_edit_description">编辑描述</string>
+    <string name="test_edit_confirm">确认</string>
+    <color name="lisicolor">#FFE87C</color>
+    <color name="black">#000000</color>
+</resources>
